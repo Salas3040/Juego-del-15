@@ -42,9 +42,7 @@ public class Board : MonoBehaviour
     {
 		//Truquitos de debug para ver si funciona sin completar el puzle (pereza)
 		if (Input.GetKeyDown(KeyCode.S))		
-            tileList.ForEach(x => x.OnMoveTo(x.correctPosition));
-			
-       
+            tileList.ForEach(x => x.OnMoveTo(x.correctPosition));      
     }
 
     //crea los tiles en orden y los guarda en la lista
