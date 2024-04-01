@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 55797587a4f1bf747b783a622ec5e68c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vintage Mohai - Demo Version
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61f68e466963565429e77a7e258a27e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
